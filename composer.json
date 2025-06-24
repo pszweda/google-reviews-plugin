@@ -1,0 +1,16 @@
+{
+  "name": "pszweda/prestige-reviews",
+  "description": "download opinions from google location reviews",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/pszweda/prestige-reviews",
+  "authors": [
+    {
+      "name": "Piotr Szweda",
+      "homepage": "https://github.com/pszweda"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=8.0"
+  }
+}
