@@ -1,12 +1,10 @@
 <?php
 /**
  * Plugin Name: Google Business Reviews Downloader
- * Plugin URI: https://prestige.edu.pl
  * Description: Downloads and manages Google Business Profile reviews for your WordPress site.
- * Version: 1.0.0
- * Author: Prestige Training
- * License: GPL v2 or later
- * Text Domain: google-business-reviews
+ * Version: 1.0.4
+ * Author: Piotr Szweda
+ * Text Domain: google-reviews-plugin
  */
 
 // Prevent direct access
